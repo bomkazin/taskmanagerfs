@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskManager
+build_property.RootNamespace = TaskManager
+build_property.ProjectDir = /home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/TaskManager/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza01hbmFnZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/TaskManager/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza01hbmFnZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/TaskManager/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza01hbmFnZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/TaskManager/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza01hbmFnZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/TaskManager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza01hbmFnZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bomkazi/topgun/bomkazi.nyeliso/csharp-010-crud/TaskManager/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s2ogdloy6w
